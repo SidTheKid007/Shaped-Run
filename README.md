@@ -8,7 +8,7 @@
 </div>
 
 ## Contents
- [Shaped-Run Backend](Geo\ Testing.ipynb) - This notebook contains the experimental steps and the final result of the project.
+ [Shaped-Run Backend](/Geo\ Testing.ipynb) - This notebook contains the experimental steps and the final result of the project.
 
 ## Libaries Used
 * GeoPy
